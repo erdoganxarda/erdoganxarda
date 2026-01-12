@@ -1,50 +1,53 @@
 # Hi there 👋 I'm Arda
 
-🎓 MSc AI & Data Science student at Kaunas University of Technology (KTU)  
-🤖 Interested in Deep Learning, Computer Vision & Machine Learning  
-🚀 I enjoy turning research ideas into real-world applications  
+🎓 MSc AI & Data Science student at **Kaunas University of Technology (KTU)**  
+🤖 Deep Learning • Computer Vision • Machine Learning  
+🚀 Turning research ideas into real-world ML systems
 
 ---
 
 ## 🧠 About Me
 - 🎓 Master’s student in **AI & Data Science** at **KTU**
-- 🔬 Experience with **Deep Learning** & **Computer Vision**
-- 🛠️ Strong focus on **end-to-end ML projects** (training → evaluation → deployment)
-- 📚 Always learning, experimenting, and building
+- 🔬 Strong interest in **Deep Learning** & **Computer Vision**
+- 🛠️ Focused on **end-to-end ML pipelines**  
+  (data → training → evaluation → deployment)
+- 📚 Curious, consistent, and project-driven
 
 ---
 
 ## 🛠️ Tech Stack
 - **Languages:** Python  
-- **ML/DL:** TensorFlow, Keras, NumPy, Pandas  
-- **CV:** CNNs, Transfer Learning  
+- **ML / DL:** TensorFlow, Keras, NumPy, Pandas  
+- **Computer Vision:** CNNs, Transfer Learning  
 - **Tools:** Git, Docker, TensorBoard, Weights & Biases  
-- **Other:** REST APIs, Model Deployment (TFLite, SavedModel)
+- **Deployment:** TFLite, SavedModel, REST APIs  
 
 ---
 
 ## 📌 Featured Projects
-🔹 **Landmark Finder**  
-Deep Learning–based landmark classification system using transfer learning  
-- CNNs with MobileNet  
-- Model optimization (FP32 vs INT8)  
-- Production-ready pipeline  
+### 🔹 Landmark Finder
+Deep Learning–based landmark classification system  
+- Transfer learning with **MobileNet**
+- Model optimization (**FP32 vs INT8**)
+- Production-ready inference pipeline
 
-🔹 **Medical AI Research**  
-*Thyroid Cytopathology Reporting Based on Bethesda System Using Deep Learning*  
-- Medical image classification  
-- Research-oriented deep learning workflows  
+### 🔹 Medical AI Research
+**Thyroid Cytopathology Reporting Based on Bethesda System Using Deep Learning**  
+- Medical image classification
+- Research-focused deep learning workflows
 
 ---
 
 ## 📊 GitHub Stats
-![Arda's GitHub stats](https://github-readme-stats.vercel.app/api?username=erdoganxarda&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=erdoganxarda&show_icons=true&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erdoganxarda&layout=compact)
 
 ---
 
 ## 📫 Get in Touch
-- 💼 LinkedIn: *[(add link if you want)](https://www.linkedin.com/in/erdoganxarda/)*  
-- 📧 Email: *erdoganxarda@gmail.com*  
+- 💼 LinkedIn: https://www.linkedin.com/in/erdoganxarda/
+- 📧 Email: erdoganxarda@gmail.com
 
 ---
 

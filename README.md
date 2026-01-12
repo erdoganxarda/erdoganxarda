@@ -38,7 +38,7 @@ Deep Learning–based landmark classification system using transfer learning
 ---
 
 ## 📊 GitHub Stats
-![Arda's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+![Arda's GitHub stats](https://github-readme-stats.vercel.app/api?username=erdoganxarda&show_icons=true&theme=default)
 
 ---
 

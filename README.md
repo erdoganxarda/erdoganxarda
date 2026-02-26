@@ -1,19 +1,3 @@
-# Arda Erdoğan
-
-Machine Learning Engineer  
-Building high-performance ML/AI systems and scalable backend architectures.
-
----
-
-## Focus
-
-• Real-time inference systems (<120ms latency)  
-• ML APIs serving 10k+ daily predictions  
-• Distributed preprocessing pipelines  
-• PostgreSQL performance optimization  
-• Async systems & concurrency  
-• GAN-based synthetic data generation  
-
 ---
 
 ## Stack
@@ -44,14 +28,9 @@ Building high-performance ML/AI systems and scalable backend architectures.
 
 ---
 
-## Philosophy
-
 Measure. Optimize. Ship scalable systems.
 
 ---
-
-M.Sc. Artificial Intelligence — Kaunas University of Technology  
-B.Sc. Computer Engineering — International Vision University  
 
 LinkedIn: https://linkedin.com/in/erdoganxarda  
 X: https://x.com/ardaerdogani
